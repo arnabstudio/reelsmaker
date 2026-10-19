@@ -1,0 +1,6 @@
+{
+  "name": "ReelsMaker - Remotion Slideshow Video Maker",
+  "description": "Mobile-first slideshow video maker powered by Remotion composition and rendering engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
